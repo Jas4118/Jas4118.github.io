@@ -9,4 +9,4 @@ The index.html code is mainly to build out what the page looks like.
 ## How to use it
 There isn't a need to download anything and it is automatically deployed by GitHub Pages and could be reached here(https://jas4118.github.io/Weather_Info_Lookup/)
 ## Example
-![Example weather lookup](https://github.com/Jas4118/Jas4118.github.io/blob/main/example_weather.PNG)
+
