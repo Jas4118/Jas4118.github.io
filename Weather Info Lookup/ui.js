@@ -4,7 +4,7 @@ class UI {
       this.city;
       this.defaultCity = "New York";
     }
-    #function that takes in parameter got from fetch and parses
+    //function that takes in parameter got from fetch and parses
     populateUI(data) {
   
       this.uiContainer.innerHTML = `        
